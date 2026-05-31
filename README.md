@@ -3,7 +3,6 @@
 A complete, production-ready MERN Stack Learning Management System with role-based authentication, course management, and enrollment tracking.
 
 ## 🚀 Features
-git 
 - **3 User Roles**: Admin, Instructor, Student
 - **JWT Authentication** with Bcrypt password hashing
 - **Role-Based Access Control** with protected routes
